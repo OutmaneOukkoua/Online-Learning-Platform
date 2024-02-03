@@ -5,24 +5,25 @@ This project is an Online Learning Platform built using Node.js, Express, and Mo
 
 
 # Key Features:
-Courses Management
-User Authentication
-File Uploads for Course Content
-Global Error Handling
+- Courses Management
+- User Authentication
+- File Uploads for Course Content
+- Global Error Handling
 
 
 # Tech Stack:
-Node.js
-Express
-MongoDB (MongoDB Atlas)
-CORS for Cross-Origin Resource Sharing
-HTTP Status Handling
-How to Run:
+- Node.js
+- Express
+- MongoDB (MongoDB Atlas)
+- CORS for Cross-Origin Resource Sharing
+- HTTP Status Handling
 
 
-# Clone the repository
-Install dependencies (npm install)
-Set up a .env file with MongoDB Atlas connection details
-Run the application (npm start)
-Access the API endpoints for courses and users.
-Feel free to contribute and enhance the project!
+# How to Run:
+- Clone the repository
+- Install dependencies (npm install)
+- Set up a .env file with MongoDB Atlas connection details
+- Run the application (npm start)
+- Access the API endpoints for courses and users.
+  
+## Feel free to contribute and enhance the project!
